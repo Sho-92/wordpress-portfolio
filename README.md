@@ -25,9 +25,7 @@ The WordPress version is no longer available, but you can view the [GitHub Pages
 - GitHub Pages
 - FTP tool (Cyberduck) for file transfer from server
 
-—
-
-# WordPress Portfolio Migration
+***
 
 このプロジェクトは、GitHub Pagesにデプロイしたポートフォリオを、WordPressに移行するプロセスを学ぶために作成されました。元のレイアウトを崩さないよう細心の注意を払って移行作業を行い、見た目がほぼ同一であることを目指しました。
 
